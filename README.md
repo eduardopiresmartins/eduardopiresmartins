@@ -21,7 +21,7 @@ Eu considero uma realização pessoal, poder ajudar pessoas a se desenvolverem p
 
 EN: I am passionate and excited about everything that involves technology, people and innovation. Student of Systems Analysis and Development at FECAF.
 
-I believe in a technological future and I want to write that future today with every line of code! I currently work as a Systems Development Analyst at Stefanini.
+I believe in a technological future and I want to write that future today with every line of code!
 
 Also, I have a project on Instagram called epmartins (@epmartins.io) where I create and share content about technology, innovation and everything else that excites me in this universe!
 
