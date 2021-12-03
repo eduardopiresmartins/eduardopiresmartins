@@ -4,12 +4,28 @@
 
 
 
-/<!--<img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="350" height="300" /-->
+<!--<img align="right" alt="GIF" src="https://imgur.com/XwcZU9t.gif" width="350" height="300" /-->
 
 
 
 
-<p> Sou estudante de Análise e Desenvolvimento de Sistemas e venho me especializando em Desenvolvimento Web e Mobile, com JavaScript, HTML5, CSS3, NodeJS e React. Buscando atualmente uma oportunidade de carreira, na qual eu possa crescer profissionalmente, mostrar meus talentos e competências e aumentar ainda mais os meus conhecimentos na medida que agrego valor a organização. Sou idealizador do projeto @epmartins.io, onde dou dicas para iniciantes e apoio mais pessoas a ingressarem no universo da tecnologia. </p>
+<p> PT: Sou apaixonado e empolgado com tudo que envolve tecnologia, pessoas e inovação. Estudante de Análise e Desenvolvimento de Sistemas na FECAF. 
+
+Acredito em um futuro tecnológico e quero escrever esse futuro hoje com cada linha de código!
+
+Além disso, eu tenho um projeto no Instagram chamado epmartins (@epmartins.io) onde eu crio e compartilho conteúdo sobre tecnologia, inovação e tudo mais que me empolga nesse universo!
+
+Eu considero uma realização pessoal, poder ajudar pessoas a se desenvolverem pessoalmente e profissionalmente e poder incentivá-las a mergulhar nesse grande mundo da tecnologia.
+
+----------------------------------------------------------------------------------------------------------------------
+
+EN: I am passionate and excited about everything that involves technology, people and innovation. Student of Systems Analysis and Development at FECAF.
+
+I believe in a technological future and I want to write that future today with every line of code! I currently work as a Systems Development Analyst at Stefanini.
+
+Also, I have a project on Instagram called epmartins (@epmartins.io) where I create and share content about technology, innovation and everything else that excites me in this universe!
+
+I consider it a personal achievement to be able to help people to develop personally and professionally and to be able to encourage them to immerse themselves in this great world of technology. </p>
 
 ### Contato
 
