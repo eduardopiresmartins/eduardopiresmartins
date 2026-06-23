@@ -82,23 +82,27 @@ Acredito que bons sistemas não nascem apenas de código funcionando, mas de ent
 
 <table align="center">
   <tr>
-    <td align="center" width="280">
+    <td align="center" width="260">
       <a href="https://github.com/users/eduardopiresmartins/achievements/yolo">
-        <img width="150" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO achievement" />
+        <img width="104" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO achievement" />
       </a>
       <br />
       <strong>YOLO</strong>
       <br />
       100% unlocked
+      <br />
+      <sub>Merged without review</sub>
     </td>
-    <td align="center" width="280">
+    <td align="center" width="260">
       <a href="https://github.com/users/eduardopiresmartins/achievements/pull-shark">
-        <img width="150" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark achievement" />
+        <img width="104" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark achievement" />
       </a>
       <br />
       <strong>Pull Shark</strong>
       <br />
       x2
+      <br />
+      <sub>Merged pull requests</sub>
     </td>
   </tr>
 </table>
