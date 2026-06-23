@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Eduardo Pires Martins banner" width="100%" />
+  <img src="./assets/profile-cover.jpg" alt="EPMartins cover image" width="100%" />
 </p>
 
 <p align="center">
