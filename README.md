@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8620E0&height=180&section=header&text=Eduardo%20Pires%20Martins&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product-minded%20Developer%20%7C%20Backend%20%26%20Web&descAlignY=58&descSize=16" alt="Eduardo Pires Martins banner" />
+  <img src="./assets/profile-banner.svg" alt="Eduardo Pires Martins banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/epmartins-wordmark-gradient.png" alt="EPMartins brand wordmark" width="72%" />
 </p>
 
 <h1 align="center">Olá, eu sou o Eduardo 👋</h1>
@@ -76,8 +80,8 @@ Acredito que bons sistemas não nascem apenas de código funcionando, mas de ent
 ## GitHub em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardopiresmartins&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopiresmartins&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eduardopiresmartins&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=8620E0&text_color=FFFFFF&icon_color=2B6CD6&border_color=0A0A0A&ring_color=F79D23" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopiresmartins&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=8620E0&text_color=FFFFFF&border_color=0A0A0A" alt="Top languages" />
 </p>
 
 ---
