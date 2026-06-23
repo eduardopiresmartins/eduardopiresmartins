@@ -1,0 +1,27 @@
+<svg width="360" height="220" viewBox="0 0 360 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pull Shark achievement card</title>
+  <desc id="desc">GitHub-style achievement card for the Pull Shark x2 achievement.</desc>
+  <defs>
+    <radialGradient id="ocean" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(114 94) rotate(90) scale(64)">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="20" y1="18" x2="340" y2="202" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="348" height="208" rx="14" fill="url(#bg)" stroke="#1F6FEB" stroke-width="2"/>
+  <circle cx="112" cy="96" r="60" fill="#0D1117"/>
+  <circle cx="112" cy="96" r="54" fill="url(#ocean)" stroke="#DCEBFF" stroke-width="12"/>
+  <path d="M82 98C94 82 114 78 132 84C146 88 154 100 154 100C149 102 143 103 138 103C132 112 120 120 103 120C97 120 88 118 82 114L89 104L82 98Z" fill="#F8FAFC"/>
+  <circle cx="133" cy="93" r="4" fill="#0D1117"/>
+  <path d="M101 94L113 103L124 94" stroke="#0D1117" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M97 126L103 118L109 126" stroke="#0D1117" stroke-width="3" stroke-linecap="round"/>
+  <path d="M118 126L124 118L130 126" stroke="#0D1117" stroke-width="3" stroke-linecap="round"/>
+  <rect x="267" y="24" width="58" height="26" rx="13" fill="#1F6FEB"/>
+  <text x="296" y="41" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700">New</text>
+  <text x="112" y="176" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', Arial, sans-serif" font-size="26" font-weight="700">Pull Shark</text>
+  <rect x="154" y="160" width="46" height="28" rx="14" fill="#F7B38C"/>
+  <text x="177" y="179" text-anchor="middle" fill="#0D1117" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="800">x2</text>
+</svg>

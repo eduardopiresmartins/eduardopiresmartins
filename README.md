@@ -80,6 +80,35 @@ Acredito que bons sistemas não nascem apenas de código funcionando, mas de ent
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardopiresmartins&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=8620E0&text_color=FFFFFF&border_color=0A0A0A" alt="Top languages" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <a href="https://github.com/users/eduardopiresmartins/achievements/yolo">
+        <img width="150" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO achievement" />
+      </a>
+      <br />
+      <strong>YOLO</strong>
+      <br />
+      100% unlocked
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/users/eduardopiresmartins/achievements/pull-shark">
+        <img width="150" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark achievement" />
+      </a>
+      <br />
+      <strong>Pull Shark</strong>
+      <br />
+      x2
+    </td>
+  </tr>
+</table>
+
+### Achievements
+
+- **YOLO**: desbloqueado em 100% em 13 de março, com merge sem review no PR [Collabore/collabore-app#15](https://github.com/Collabore/collabore-app/pull/15).
+- **Pull Shark x2**: conquistado com PRs merged, incluindo [Collabore/collabore-api#3](https://github.com/Collabore/collabore-api/pull/3) e [Collabore/collabore-app#6](https://github.com/Collabore/collabore-app/pull/6).
+- Perfil de conquistas: [GitHub Achievements](https://github.com/users/eduardopiresmartins/achievements/pull-shark)
+
 ---
 
 ## Vamos conversar?
