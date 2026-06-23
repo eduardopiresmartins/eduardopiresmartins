@@ -2,10 +2,6 @@
   <img src="./assets/profile-cover.jpg" alt="EPMartins cover image" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/epmartins-wordmark-gradient.png" alt="EPMartins brand wordmark" width="72%" />
-</p>
-
 <h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 
 <p align="center">
